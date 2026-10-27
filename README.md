@@ -1,4 +1,4 @@
-# Debug LLM Bottlenecks with NVIDIA Nsight
+# Debug LLM Bottlenecks with NVIDIA Nsight 
 
 A self-paced **learning workshop** — hands-on labs for profiling LLM training and inference on
 GPUs with NVIDIA Nsight Systems, finding the real bottleneck, and fixing it.
